@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Steve
 
 ## I'm a Engineer, Tech Lead, and Hiker!
-- 🔭 I’m currently working remotely on highly secret project in the finance world!
-- 🌱 I beleive the journey is as important as the outcome, so you improve for the next story.
+- 🔭 I’m currently working remotely on highly secret project in the finance world using Java, Spring and Kubernetes!
+- 🌱 I've spent the last 8 years across the retail and finance spaces within technology enhancing systems used by millions daily.
 - 👯 I’m looking to collaborate with other content creators on  Ludum Dare Video game competition.
 - 🥅 2020 Goals: Form the foundations of a startup.
 - ⚡ Fun fact: I love hiking in nature and coaching people to their breakthrough "Aha Moment" of understanding.
-- I've taught for Code Club NZ and Organised CodersUK (1200 Members) for Paid Events learning AWS/Best Development Practices 
+- :books:  I've taught for Code Club NZ and Organised CodersUK (1200 Members) for Paid Events learning AWS/Best Development Practices 
 
 <!--
 ### Connect with me:
