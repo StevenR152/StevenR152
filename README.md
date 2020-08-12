@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators on  Ludum Dare Video game competition.
 - 🥅 2020 Goals: Form the foundations of a startup.
 - ⚡ Fun fact: I love hiking in nature and coaching people to their breakthrough "Aha Moment" of understanding.
+- I've taught for Code Club NZ and Organised CodersUK (1200 Members) for Paid Events learning AWS/Best Development Practices 
 
 <!--
 ### Connect with me:
