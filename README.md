@@ -3,7 +3,7 @@
 ## I'm a Senior Engineer, Meetup Organiser, and Hiker!
 - 🔭 I’m currently working remotely on highly secret project in the finance world using Java, Spring and Kubernetes!
 - 🌱 I've spent the last 8 years across the retail and finance spaces within technology enhancing systems used by millions daily.
-- 👯 I’m contracting in the Australasia/US West region on Java/Cloud/DevOps based deliveries; I've worked as a Senior engineer in Retail/Banking and Loyalty sectors in both NZ and the UK.
+- 👯 I’m contracting in the Australasia/US West region on Java/Cloud/DevOps based deliveries; I've worked as a Senior engineer in Retail/Banking and Loyalty sectors in both NZ and the UK building systems for 6 mill+ users and billions of requests.
 - 🥅 2020 Goals: Form the foundations of a startup, join or create a NZ based give back initiative.
 - ⚡ Fun fact: I love hiking in nature and coaching people to their breakthrough "Aha Moment" of understanding.
 - :books:  I've taught for Code Club NZ and Organised CodersUK (1200 Members) for Paid Events learning AWS/Best Development Practices 
