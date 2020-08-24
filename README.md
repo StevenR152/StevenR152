@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Steve
 
-## I'm a Senior Engineer, Tech Lead, and Hiker!
+## I'm a Senior Engineer, Meetup Organiser, and Hiker!
 - 🔭 I’m currently working remotely on highly secret project in the finance world using Java, Spring and Kubernetes!
 - 🌱 I've spent the last 8 years across the retail and finance spaces within technology enhancing systems used by millions daily.
 - 👯 I’m looking to collaborate with other content creators on  Ludum Dare Video game competition.
