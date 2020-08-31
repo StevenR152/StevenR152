@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Steve
 
 #### I'm a Senior Engineer, Meetup Organiser, and Hiker!
-- 🔭 I’m currently working remotely on highly secret project Fintech Startup in the USA using Java, Spring and Kubernetes!
-- 🌱 I've spent the last 8 years across the retail and finance spaces within technology enhancing systems used by millions daily.
-- 👯 I’m contracting in the Australasia/US West region on Java/Cloud/DevOps based deliveries; I've worked as a Senior engineer in Retail/Banking and Loyalty sectors in both NZ and the UK building systems for 6 mill+ users and billions of requests.
-- 🥅 2020 Goals: Form the foundations of a startup, join or create a NZ based give back initiative.
-- ⚡ Fun fact: I love hiking in nature and coaching people to their breakthrough "Aha Moment" of understanding.
-- :books:  I've taught for Code Club NZ and Organised CodersUK (1200 Members) for Paid Events learning AWS/Best Development Practices 
+- 🔭 I’m currently working remotely on a highly secret Fintech Startup project from the USA using Java, Spring and Kubernetes!
+- 🌱 I've spent the last 8 years across the retail and finance spaces within technology, enhancing systems used by millions daily.
+- 👯 I’m contracting in the Australasia/US West region on Java/Cloud/DevOps based deliveries; I've worked as a Senior Engineer in retail/banking and loyalty sectors in both NZ and the UK building systems for 6 mil+ users and billions of requests.
+- 🥅 2020 Goals: Form the foundations of a startup, join or create an NZ based give-back initiative.
+- ⚡ Fun fact: I love hiking in nature and coaching people to their breakthrough "A-ha Moment" of understanding.
+- 📚 I've taught for Code Club NZ and Organised CodersUK forming content and teaching modern cloud practices on AWS.
 
 <!--
 ### Connect with me:
