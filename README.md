@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Steve
 
-#### I'm a Tech Lead | Engineering Manager
+#### I'm a Experienced Software Engineer with experience in roles of Tech Lead, and Engineering Management
 - 🔭 I’m currently empowering a team working remotely on a highly secret Fintech Startup project from the USA using Java, Spring and Azure!
 - 🌱 I've spent the last decade across the retail and finance spaces within technology, enhancing systems used by millions daily.
 - 👯 I’m contracting in the Australasia/US West region on Java/Cloud/DevOps based deliveries; I've worked as a Senior Engineer in retail/banking and loyalty sectors in both NZ and the UK building systems for 6 mil+ users and billions of requests.
