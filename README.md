@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm Steve
 
 #### I'm a Experienced Engineering Leader with experience in roles of Software Engineer, Tech Lead, Engineering Management, Head of Engineering.
-- 🔭 I’m currently empowering a team as Head of Engineering leading a Food Industry Startup.
-- 🌱 I've spent the last decade across the retail and finance spaces within technology, enhancing systems used by millions daily.
-- ⚡ Fun fact: I love hiking in nature and coaching people to their breakthrough "A-ha Moment" of understanding.
-- 📚 I've taught for Code Club NZ and Organised CodersUK forming content and teaching modern cloud practices on AWS.
-
+- 🔭 I’m currently working with startups across AU/NZ and delivering on their early MVPs to get them to market quickly with Ai Assisted Coding. 
+- 🌱 I've spent the last decade across multiple startups as a leader, in many sectors of retail and finance used by millions daily.
+- 
 <!--
 ### Connect with me:
 
