@@ -3,7 +3,7 @@
 #### I'm a Experienced Engineering Leader with experience in roles of Software Engineer, Tech Lead, Engineering Management, Head of Engineering.
 - 🔭 I’m currently working with startups across AU/NZ and delivering on their early MVPs to get them to market quickly with Ai Assisted Coding. 
 - 🌱 I've spent the last decade across multiple startups as a leader, in many sectors of retail and finance used by millions daily.
-- 
+
 <!--
 ### Connect with me:
 
